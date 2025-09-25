@@ -26,8 +26,8 @@ Sou o Lucas Yukio Cordovil Kanashiro, tenho atualmente 19 anos e resido no inter
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="PYTHON"
+    title="PYTHON" 
     width="50px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
