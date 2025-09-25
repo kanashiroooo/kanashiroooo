@@ -47,7 +47,7 @@ Sou o Lucas Yukio Cordovil Kanashiro, tenho atualmente 19 anos e resido no inter
     src="https://github-readme-stats.vercel.app/api?username=kanashiroooo&show_icons=true&theme=dracula&locale=pt-br"
  />
 <img 
-      align="right" 
+      align="left" 
       alt="GitHub Stats" 
       height="200" 
       style="pading-right: 10px" 
